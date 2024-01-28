@@ -6,6 +6,11 @@ This report details the requested investigation into specific factors that influ
 ## Data Source
 The investigation was conducted by analysing data from a dataset of 3 million cars.  The data was shrunk to a representative sample of 426,000 entries in order to assist with speed of processing.
 
+## Links
+[Link to Data](https://github.com/mpacielim/UsedCarValuation/tree/main/data)
+
+[Link to Technical Report](https://github.com/mpacielim/UsedCarValuation/blob/main/Used%20Car%20Valuation%20Technical%20Report.ipynb)
+
 ## Findings
 The dataset was further reduced by 55% to 200,000 samples after cleaning it to remove:
 - Duplicate VINs (these were repeat entries for cars listed at the same price in multiple states)
